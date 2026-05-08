@@ -1,0 +1,14 @@
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\bin\Debug\net10.0\tugaspbopraktikum.exe
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\bin\Debug\net10.0\tugaspbopraktikum.deps.json
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\bin\Debug\net10.0\tugaspbopraktikum.runtimeconfig.json
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\bin\Debug\net10.0\tugaspbopraktikum.dll
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\bin\Debug\net10.0\tugaspbopraktikum.pdb
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.AssemblyInfoInputs.cache
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.AssemblyInfo.cs
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.dll
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\refint\tugaspbopraktikum.dll
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.pdb
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\tugaspbopraktikum.genruntimeconfig.cache
+D:\SEMESTER 2\PRAKTIKUM\PBO\tugaspbopraktikum\tugaspbopraktikum\obj\Debug\net10.0\ref\tugaspbopraktikum.dll
